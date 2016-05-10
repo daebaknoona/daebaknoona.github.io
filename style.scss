@@ -182,6 +182,7 @@ img {
 
 .site-info {
   float: center;
+    font-size: 250%;
 
   @include mobile {
     float: none;
