@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  margin: 200px;
+  margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -181,7 +181,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  float: center;
 
   @include mobile {
     float: none;
