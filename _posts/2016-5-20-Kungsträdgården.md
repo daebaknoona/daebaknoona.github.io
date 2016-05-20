@@ -17,6 +17,8 @@ Stanice byla i s uměleckou výzdobou otevřena roku 1977. Východ směrem k Ars
 
 ![](/images/kungsträdgården/obr2.jpg)
 
+Text je překladem textu z informační tabule na stanici Kungsträdgården.
+
 ### Odkazy
 [Anglické wikiheslo](https://en.wikipedia.org/wiki/Kungstr%C3%A4dg%C3%A5rden_metro_station)
 

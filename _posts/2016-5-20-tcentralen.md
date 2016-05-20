@@ -16,6 +16,8 @@ Stanice s výzdobou byla otevřena roku 1975.
 
 ![](/images/tcentralen/obr3.jpg)
 
+Text je překladem textu z informační tabule na stanici T-Centralen.
+
 ### Odkazy
 
 [Anglické wikiheslo](https://en.wikipedia.org/wiki/T-Centralen)

@@ -15,6 +15,8 @@ Stanice pochází z roku 1952, zastávka modré linky a umělecké dekorace poch
 
 ![](/images/fridhemsplan/obr2.jpg)
 
+Text je překladem textu z informační tabule na stanici Fridhemsplan.
+
 ### Odkazy
 [Blog ve švědštině](http://stockholmstunnelbana.blogg.se/2014/december/fridhemsplan.html)
 
