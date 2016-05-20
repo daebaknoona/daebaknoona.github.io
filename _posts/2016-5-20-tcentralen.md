@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-centralen
+title: T-Centralen
 ---
 ## T-Centralen
 
