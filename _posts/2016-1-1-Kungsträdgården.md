@@ -17,7 +17,7 @@ Stanice byla i s uměleckou výzdobou otevřena roku 1977. Východ směrem k Ars
 
 ![](/images/kungsträdgården/obr2.jpg)
 
-#### Odkazy
+### Odkazy
 [Anglické wikiheslo](https://en.wikipedia.org/wiki/Kungstr%C3%A4dg%C3%A5rden_metro_station)
 
 [Blogový příspěvek](http://www.stockholmourway.com/our-favourite-subway-stations-kungstradgarden/)
